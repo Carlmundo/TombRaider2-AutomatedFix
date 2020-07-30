@@ -1,5 +1,5 @@
 # Tomb Raider II (2) Automated Fix
-Automated installer to upgrade your Steam or GOG copy of Tomb Raider I to the definite modern version of the game.
+Automated installer to upgrade your Steam or GOG copy of Tomb Raider II to the definite modern version of the game.
 
 ## Install
 * Make sure you have a clean install of the Steam/GOG version first.
